@@ -1,0 +1,24 @@
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/bin/Debug/netcoreapp3.1/Ass 1 With C#.deps.json
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/bin/Debug/netcoreapp3.1/Ass 1 With C#.runtimeconfig.json
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/bin/Debug/netcoreapp3.1/Ass 1 With C#.runtimeconfig.dev.json
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/bin/Debug/netcoreapp3.1/Ass 1 With C#.dll
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/bin/Debug/netcoreapp3.1/Ass 1 With C#.pdb
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/obj/Debug/netcoreapp3.1/Ass 1 With C#.csprojAssemblyReference.cache
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/obj/Debug/netcoreapp3.1/Ass 1 With C#.AssemblyInfoInputs.cache
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/obj/Debug/netcoreapp3.1/Ass 1 With C#.AssemblyInfo.cs
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/obj/Debug/netcoreapp3.1/Ass 1 With C#.csproj.CoreCompileInputs.cache
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/obj/Debug/netcoreapp3.1/Ass 1 With C#.dll
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/obj/Debug/netcoreapp3.1/Ass 1 With C#.pdb
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C#/obj/Debug/netcoreapp3.1/Ass 1 With C#.genruntimeconfig.cache
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/bin/Debug/netcoreapp3.1/Ass 1 With C#.deps.json
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/bin/Debug/netcoreapp3.1/Ass 1 With C#.runtimeconfig.json
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/bin/Debug/netcoreapp3.1/Ass 1 With C#.runtimeconfig.dev.json
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/bin/Debug/netcoreapp3.1/Ass 1 With C#.dll
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/bin/Debug/netcoreapp3.1/Ass 1 With C#.pdb
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/obj/Debug/netcoreapp3.1/Ass 1 With C#.csprojAssemblyReference.cache
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/obj/Debug/netcoreapp3.1/Ass 1 With C#.AssemblyInfoInputs.cache
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/obj/Debug/netcoreapp3.1/Ass 1 With C#.AssemblyInfo.cs
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/obj/Debug/netcoreapp3.1/Ass 1 With C#.csproj.CoreCompileInputs.cache
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/obj/Debug/netcoreapp3.1/Ass 1 With C#.dll
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/obj/Debug/netcoreapp3.1/Ass 1 With C#.pdb
+/Users/lequan/Desktop/Mật Mà và An Ninh Mạng/Ass 1 With C# - Final/obj/Debug/netcoreapp3.1/Ass 1 With C#.genruntimeconfig.cache
